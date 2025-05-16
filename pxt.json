@@ -1,6 +1,6 @@
 {
     "name": "pxt-learn-to-solder",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "description": "Modules and lessons for the Learn To Solder kit.",
     "license": "MIT",
     "dependencies": {
