@@ -7,9 +7,7 @@
         "fwd-learn-to-solder": "github:ssande-fwd/pxt-fwd-modules/fwd-learn-to-solder#v2.0.2"
     },
     "files": [],
-    "testFiles": [],
+    "testFiles": ["test.ts"],
     "public": true,
-    "supportedTargets": [
-        "microbit"
-    ]
+    "supportedTargets": ["microbit"]
 }
